@@ -1,0 +1,4 @@
+// TODO: Build the Home page
+export default function Home() {
+  return <div><h1>Home</h1><p>Coming soon...</p></div>
+}

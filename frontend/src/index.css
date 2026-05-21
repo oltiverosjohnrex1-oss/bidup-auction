@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito:wght@400;500;600;700;800;900&family=Poppins:wght@400;500;600;700&display=swap');
+*, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+:root {
+  --primary: #EE4D2D;
+  --primary-light: #FF6B4A;
+  --primary-bg: #FFF5F3;
+  --accent: #FFB800;
+  --text: #1A1A2E;
+  --muted: #6B7280;
+  --border: #E5E7EB;
+  --bg: #F8F8F8;
+  --success: #10B981;
+  --error: #EF4444;
+}
+body { font-family: 'Nunito', sans-serif; background: var(--bg); color: var(--text); }
